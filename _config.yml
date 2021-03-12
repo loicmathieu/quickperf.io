@@ -17,7 +17,7 @@ title: QuickPerf
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Quickly find performance bottlenecks inside your application.
-baseurl: "/quickperf.io" # the subpath of your site, e.g. /blog
+baseurl: "/org.quickperf" # the subpath of your site, e.g. /blog
 url: "https://loicmathieu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: QuickPerf
 github_username:  quick-perf
